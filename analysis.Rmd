@@ -2,9 +2,7 @@
 title: "Analysis"
 author: "Me"
 date: "5/1/2019"
-output: 
-  html_document: 
-    keep_md: true
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
