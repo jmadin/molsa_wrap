@@ -1,10 +1,8 @@
 ---
 title: "Analysis"
 author: "Me"
-output: 
-  html_document: 
-    keep_md: true
 date: "5/1/2019"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
